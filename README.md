@@ -30,29 +30,3 @@ Tasks:
 2. WAP to accept student details from the user and assign them to variables using setter methods. 
    Print details of topper using getter method. 
    The student class has all variables as public but address and phone are private.
-
-   Q. Create Pattern class with following constructors:
-
-3. non-parameterized constructor: If object is created using this constructor then it should greet Welcome to the user.
-
-4. parameterized constructor with 1 character parameter: If object is created using this constructor then it should print right angle triangle pattern of 5 lines using given character.
-
-5. parameterized constructor with 1 character parameter and 1 noOfLines parameter: If object is created using this constructor then it should print right angle triangle pattern using given character for given number of lines.
-
-6. Create following classes:
-
-public class Student {
-	public String name;
-	public Address addr;
-	public long phone;
-	public String emailId;
-}
-
-public class Address {
-	public String area;
-	public String locality;
-	public String country;
-	public int pincode;
-}
-
-Write getter and setter methods for every variable in both classes. Create one object for yourself. Accept all values from user using Scanner class.
