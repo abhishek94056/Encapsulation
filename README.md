@@ -19,7 +19,7 @@ The Getter method is ALWAYS publicly available.
 The Setter method NEVER returns a value; its return type is ALWAYS void.
 The Setter method ALWAYS has a parameter.
 The Setter method is ALWAYS publicly available.
-The Getter & Setter methods are ALWAYS written in camel case.
+The Getter & Setter methods are ALWAYS written in camel case..
 
 Tasks:
 
